@@ -27,7 +27,6 @@ public class Exam5 {
                 double x2 = (-b - Math.sqrt(delta))/(2 * a);
                 System.out.println("Phương trình có 2 nghiệm: x1 = " + x1 + " x2 = " + x2);
             }
-
         }
     }
 }
