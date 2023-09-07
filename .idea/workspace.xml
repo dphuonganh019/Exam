@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b6a387-beae-4c8e-bafe-8ec0ead52684" name="Changes" comment="Làm nốt 2 ý cuối bài 3">
-      <change afterPath="$PROJECT_DIR$/src/Exam5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="47b6a387-beae-4c8e-bafe-8ec0ead52684" name="Changes" comment="Làm nốt bài 5">
+      <change beforePath="$PROJECT_DIR$/src/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <updated>1693919983434</updated>
       <workItem from="1693919984445" duration="4919000" />
       <workItem from="1694014629843" duration="5983000" />
-      <workItem from="1694087168204" duration="1412000" />
+      <workItem from="1694087168204" duration="2122000" />
     </task>
     <task id="LOCAL-00001" summary="Exam 050923">
       <option name="closed" value="true" />
@@ -122,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694021551498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Làm nốt 2 ý cuối bài 3">
+      <option name="closed" value="true" />
+      <created>1694088599323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694088599323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Làm nốt bài 5">
+      <option name="closed" value="true" />
+      <created>1694088672706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694088672706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exam 050923" />
     <MESSAGE value="Làm nốt 2 ý cuối bài 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Làm nốt 2 ý cuối bài 3" />
+    <MESSAGE value="Làm nốt bài 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Làm nốt bài 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
